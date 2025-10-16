@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "The 2024 Short Course on the Application of Machine Learning for Automated Quantification of Behavior"
+title: "The 2025 Short Course on the Application of Machine Learning for Automated Quantification of Behavior"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
